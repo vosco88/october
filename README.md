@@ -30,7 +30,7 @@ php -r "eval('?>'.file_get_contents('https://octobercms.com/api/installer'));"
 If you plan on using a database, run this command:
 
 ```shell
-php artisan october:install
+php artisan october:installvfvv
 ```
 
 ### Development Team
